@@ -1,0 +1,143 @@
+.container3 {
+  width: 26%;
+  min-height: 50vh;
+  margin-left: 70%;
+  margin-right: 10px;
+  margin-top: 50px;
+  display: block;
+  border-radius: 10px;
+  background-color: whitesmoke;
+  padding-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 10px;
+}
+
+.container1 {
+  width: 26%;
+  min-height: 25vh;
+  margin-left: 70%;
+  margin-right: 10px;
+  display: block;
+  border-radius: 10px;
+  background-color: white;
+  border-left: 2px solid #9400D3;
+}
+
+/* Style the custom slider */
+.custom-slider {
+  width: 100%;
+  height: 30px;
+  background: #eee;
+  opacity: 0.8;
+  outline: none;
+  transition: 0.3s;
+  -webkit-appearance: none;
+}
+
+.custom-slider:hover {
+  opacity: 1;
+
+}
+
+.custom-slider::-webkit-slider-thumb {
+  appearance: none;
+  -webkit-appearance: none;
+  width: 60px;
+  height: 30px;
+  background: #4caf50;
+  cursor: pointer;
+}
+
+.custom-slider::-moz-range-thumb {
+  width: 90px;
+  height: 30px;
+  background: #4caf50;
+  cursor: pointer;
+}
+
+.container3 h2 {
+  margin-left: 25px;
+}
+.container3 h3{
+  margin-left: 25px;
+}
+.container3 hr {
+  width: 90%;
+  margin-top: 30px;
+}
+
+.width1 {
+  display: flex;
+  height: 25px;
+  width: 30px;
+  font-size: 1rem;
+  background-color: white;
+}
+
+.range1,
+.range2 {
+  float: right;
+  margin-left: 25px;
+  margin-right: 30px;
+}
+
+
+.info1 h3 {
+  float: right;
+  margin-right: 20px;
+}
+
+.info1 p {
+  float: right;
+  margin-top: 22px;
+  margin-right: 20px;
+  font-weight: 600;
+}
+
+.btnnn {
+  /* position: absolute; */
+  top: 100%;
+  background-color: #9400D3;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  padding: 15px;
+  min-height: 30px;
+  min-width: 80%;
+  margin-left: 40px;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+
+.firsta {
+  text-decoration: none;
+  margin-left: 130px;
+  font-weight: 600;
+  color: #9400D3;
+  padding-bottom: 30px;
+}
+
+.para1 {
+  margin-right: 150px;
+  margin-bottom: 0;
+}
+
+.para2 {
+  margin-top: 0;
+  margin-right: 172px;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.para3 {
+  margin-top: 5px;
+  font-weight: 300;
+  margin-right: 110px;
+}
+
+.seconda {
+  color: #9400D3;
+  font-weight: 600;
+  text-decoration: none;
+  margin-left: 37px;
+}
